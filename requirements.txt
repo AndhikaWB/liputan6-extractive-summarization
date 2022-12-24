@@ -1,0 +1,12 @@
+beautifulsoup4
+requests
+PySastrawi
+spacy
+spacy-lookups-data
+scikit-learn
+pandas
+matplotlib
+kneed
+translators
+rouge
+tk
